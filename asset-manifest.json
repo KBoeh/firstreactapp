@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firstreactapp/static/css/main.446c6f73.chunk.css",
+    "main.js": "/firstreactapp/static/js/main.1db1adb9.chunk.js",
+    "main.js.map": "/firstreactapp/static/js/main.1db1adb9.chunk.js.map",
+    "runtime-main.js": "/firstreactapp/static/js/runtime-main.a0c4a039.js",
+    "runtime-main.js.map": "/firstreactapp/static/js/runtime-main.a0c4a039.js.map",
+    "static/js/2.48edb7c4.chunk.js": "/firstreactapp/static/js/2.48edb7c4.chunk.js",
+    "static/js/2.48edb7c4.chunk.js.map": "/firstreactapp/static/js/2.48edb7c4.chunk.js.map",
+    "static/js/3.3ef7e865.chunk.js": "/firstreactapp/static/js/3.3ef7e865.chunk.js",
+    "static/js/3.3ef7e865.chunk.js.map": "/firstreactapp/static/js/3.3ef7e865.chunk.js.map",
+    "index.html": "/firstreactapp/index.html",
+    "static/css/main.446c6f73.chunk.css.map": "/firstreactapp/static/css/main.446c6f73.chunk.css.map",
+    "static/js/2.48edb7c4.chunk.js.LICENSE.txt": "/firstreactapp/static/js/2.48edb7c4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/firstreactapp/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c4a039.js",
+    "static/js/2.48edb7c4.chunk.js",
+    "static/css/main.446c6f73.chunk.css",
+    "static/js/main.1db1adb9.chunk.js"
+  ]
+}
